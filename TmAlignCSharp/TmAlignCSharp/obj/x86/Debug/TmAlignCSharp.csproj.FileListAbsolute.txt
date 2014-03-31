@@ -1,0 +1,8 @@
+D:\other pen drive backup\Umassd Sem 1\tmalign c#\TmAlignCSharp\TmAlignCSharp\bin\Debug\TmAlignCSharp.exe
+D:\other pen drive backup\Umassd Sem 1\tmalign c#\TmAlignCSharp\TmAlignCSharp\bin\Debug\TmAlignCSharp.pdb
+D:\other pen drive backup\Umassd Sem 1\tmalign c#\TmAlignCSharp\TmAlignCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\other pen drive backup\Umassd Sem 1\tmalign c#\TmAlignCSharp\TmAlignCSharp\obj\x86\Debug\TmAlignCSharp.Properties.Resources.resources
+D:\other pen drive backup\Umassd Sem 1\tmalign c#\TmAlignCSharp\TmAlignCSharp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\other pen drive backup\Umassd Sem 1\tmalign c#\TmAlignCSharp\TmAlignCSharp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\other pen drive backup\Umassd Sem 1\tmalign c#\TmAlignCSharp\TmAlignCSharp\obj\x86\Debug\TmAlignCSharp.exe
+D:\other pen drive backup\Umassd Sem 1\tmalign c#\TmAlignCSharp\TmAlignCSharp\obj\x86\Debug\TmAlignCSharp.pdb
